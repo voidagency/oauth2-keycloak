@@ -1,6 +1,23 @@
 # Changelog
 All Notable changes to `oauth2-keycloak` will be documented in this file
 
+## 2.1.1 - 2020-03-1
+
+### Added
+- Nothing
+
+### Deprecated
+- Nothing
+
+### Fixed
+- Fixed `league/oauth` composer.json version ([PR-17](https://github.com/stevenmaguire/oauth2-keycloak/issues/15))
+
+### Removed
+- Nothing
+
+### Security
+- Nothing
+
 ## 2.1.0 - 2018-03-12
 
 ### Added
